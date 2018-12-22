@@ -1,2 +1,2 @@
 # starlords-redemption
-2D shooter made in 2015 as a small school assignment
+A small game I made with a classmate in 2015. It is written in C++ in a small library that was made by our teacher then. The libary is CGL (coregamelibrary) if anyone can find a copy of the libary.
